@@ -1,4 +1,4 @@
 flask[async]
 openai
 python-telegram-bot==20.8
-gunicorn
+uvicorn[standard]

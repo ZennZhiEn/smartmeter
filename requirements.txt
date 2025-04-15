@@ -1,4 +1,4 @@
 flask[async]
-openai==0.28
 python-telegram-bot==20.8
+openai>=1.0.0
 hypercorn
